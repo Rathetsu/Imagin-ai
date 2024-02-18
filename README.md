@@ -1,1 +1,1 @@
-# Imagin-ai
+# imagin.ai
